@@ -1,2 +1,1 @@
-# quizapp
-Created with CodeSandbox
+# Survey app
